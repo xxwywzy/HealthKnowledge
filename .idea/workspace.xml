@@ -1,0 +1,2005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="HealthKnowledge:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9145de10-574c-4f6f-9e44-ce56fcf1d51b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/lib/java-sdk-0.1.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/META-INF/MANIFEST.MF" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/IfKnoUpdated.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/KnoTypeService.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/NewestKnoService.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/.idea/artifacts/HealthKnowledge_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/.idea/libraries/lib.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/.idea/webContexts.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/HealthKnowledge.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/HealthKnowledge_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/javabean/UserRegisterBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/send/AppPush.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/servlet/Delete_kno_Servlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/servlet/Delete_rule_Servlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/servlet/Push_kno_Servlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/servlet/Save_kno_Servlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/servlet/Update_kno_Servlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/servlet/Upload.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/IfKnoUpdated.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/KnoTypeService.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/NewestKnoService.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/antlr-2.7.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/classworlds-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/commons-beanutils-1.7.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/commons-chain-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/commons-codec-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/commons-collections-3.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/commons-configuration-1.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/commons-digester-2.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/commons-fileupload-1.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/commons-io-1.3.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/commons-lang-2.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/commons-lang-2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/commons-logging-1.0.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/commons-logging-1.0.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/commons-logging-api-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/commons-validator-1.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/freemarker-2.3.16.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/gexin-rp-sdk-base-4.0.0.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/gexin-rp-sdk-http-4.0.1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/gexin-rp-sdk-template-4.0.0.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/jackson-all-1.8.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/javassist-3.7.ga.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/javax.servlet.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/json-20160212.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/json-lib-2.1-jdk15.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/json-taglib-0.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/jstl-1.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/ognl-3.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/oro-2.0.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/protobuf-java-2.5.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/sqljdbc4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/sslext-1.2-0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/standard-1.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/struts2-convention-plugin-2.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/struts2-core-2.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/struts2-embeddedjsp-plugin-2.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/struts2-json-plugin-2.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/lib/xwork-core-2.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/css/bootstrap-datetimepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/css/bootstrap-datetimepicker.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/css/bootstrap-table.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/css/datepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/css/datepicker3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/images/heart.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/bootstrap-datepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/bootstrap-datetimepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/bootstrap-datetimepicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/bootstrap-table.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/chart-data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/chart.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/easypiechart-data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/easypiechart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/html5shiv.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/jquery-1.11.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/jquery-1.8.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/knowledgeInput.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.az.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.bg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.bn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.ee.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.el.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.hr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.hy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.is.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.ka.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.ko.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.lt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.lv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.ms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.nb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.no.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.pt-BR.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.rs-latin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.rs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.sl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.sw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.ua.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.uk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.zh-CN.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/locales/bootstrap-datetimepicker.zh-TW.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/lumino.glyphs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/js/tag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/kno-content.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/kno-contentbyID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/kno-service.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/kno-show.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/rules-add.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/rules-show.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/antlr-2.7.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/classworlds-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/commons-beanutils-1.7.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/commons-chain-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/commons-codec-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/commons-collections-3.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/commons-configuration-1.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/commons-digester-2.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/commons-fileupload-1.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/commons-io-1.3.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/commons-lang-2.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/commons-lang-2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/commons-logging-1.0.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/commons-logging-1.0.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/commons-logging-api-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/commons-validator-1.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/freemarker-2.3.16.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/gexin-rp-sdk-base-4.0.0.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/gexin-rp-sdk-http-4.0.1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/gexin-rp-sdk-template-4.0.0.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/jackson-all-1.8.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/javassist-3.7.ga.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/javax.servlet.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/json-20160212.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/json-lib-2.1-jdk15.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/json-taglib-0.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/jstl-1.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/ognl-3.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/oro-2.0.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/protobuf-java-2.5.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/sqljdbc4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/sslext-1.2-0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/standard-1.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/struts2-convention-plugin-2.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/struts2-core-2.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/struts2-embeddedjsp-plugin-2.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/struts2-json-plugin-2.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/lib/xwork-core-2.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/css/bootstrap-datetimepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/css/bootstrap-datetimepicker.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/css/bootstrap-table.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/css/datepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/css/datepicker3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/images/heart.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/bootstrap-datepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/bootstrap-datetimepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/bootstrap-datetimepicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/bootstrap-table.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/chart-data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/chart.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/easypiechart-data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/easypiechart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/html5shiv.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/jquery-1.11.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/jquery-1.8.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/knowledgeInput.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.az.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.bg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.bn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.ee.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.el.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.hr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.hy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.is.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.ka.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.ko.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.lt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.lv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.ms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.nb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.no.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.pt-BR.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.rs-latin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.rs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.sl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.sw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.ua.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.uk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.zh-CN.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/locales/bootstrap-datetimepicker.zh-TW.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/lumino.glyphs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/js/tag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/kno-content.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/kno-contentbyID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/kno-service.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/kno-show.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/rules-add.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/rules-show.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/.idea/artifacts/HealthKnowledge_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/.idea/libraries/lib.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/.idea/webContexts.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/HealthKnowledge.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/HealthKnowledge_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/javabean/UserRegisterBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/send/AppPush.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/servlet/Delete_kno_Servlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/servlet/Delete_rule_Servlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/servlet/Push_kno_Servlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/servlet/Save_kno_Servlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/servlet/Update_kno_Servlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/servlet/Upload.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/IfKnoUpdated.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/KnoTypeService.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/NewestKnoService.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/antlr-2.7.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/classworlds-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/commons-beanutils-1.7.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/commons-chain-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/commons-codec-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/commons-collections-3.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/commons-configuration-1.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/commons-digester-2.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/commons-fileupload-1.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/commons-io-1.3.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/commons-lang-2.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/commons-lang-2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/commons-logging-1.0.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/commons-logging-1.0.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/commons-logging-api-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/commons-validator-1.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/freemarker-2.3.16.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/gexin-rp-sdk-base-4.0.0.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/gexin-rp-sdk-http-4.0.1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/gexin-rp-sdk-template-4.0.0.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/jackson-all-1.8.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/javassist-3.7.ga.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/javax.servlet.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/json-20160212.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/json-lib-2.1-jdk15.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/json-taglib-0.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/jstl-1.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/ognl-3.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/oro-2.0.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/protobuf-java-2.5.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/sqljdbc4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/sslext-1.2-0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/standard-1.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/struts2-convention-plugin-2.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/struts2-core-2.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/struts2-embeddedjsp-plugin-2.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/struts2-json-plugin-2.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/lib/xwork-core-2.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/css/bootstrap-datetimepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/css/bootstrap-datetimepicker.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/css/bootstrap-table.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/css/datepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/css/datepicker3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/images/heart.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/bootstrap-datepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/bootstrap-datetimepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/bootstrap-datetimepicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/bootstrap-table.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/chart-data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/chart.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/easypiechart-data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/easypiechart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/html5shiv.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/jquery-1.11.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/jquery-1.8.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/knowledgeInput.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.az.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.bg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.bn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.ee.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.el.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.hr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.hy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.is.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.ka.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.ko.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.lt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.lv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.ms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.nb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.no.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.pt-BR.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.rs-latin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.rs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.sl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.sw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.ua.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.uk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.zh-CN.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/locales/bootstrap-datetimepicker.zh-TW.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/lumino.glyphs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/js/tag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/kno-content.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/kno-contentbyID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/kno-service.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/kno-show.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/rules-add.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/HealthKnowledge/web/rules-show.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/javabean/UserRegisterBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/send/AppPush.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/servlet/Delete_kno_Servlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/servlet/Delete_rule_Servlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/servlet/Push_kno_Servlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/servlet/Save_kno_Servlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/servlet/Update_kno_Servlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/servlet/Upload.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HealthKnowledge.iml" afterPath="$PROJECT_DIR$/HealthKnowledge.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/index.jsp" afterPath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/web/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/out/artifacts/HealthKnowledge_war_exploded/index.jsp" afterPath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/out/artifacts/HealthKnowledge_war_exploded/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/out/production/HealthKnowledge/web/index.jsp" afterPath="$PROJECT_DIR$/out/artifacts/HealthKnowledge_war_exploded/WEB-INF/classes/out/production/HealthKnowledge/web/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/IfKnoUpdated.jsp" afterPath="$PROJECT_DIR$/web/IfKnoUpdated.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/KnoTypeService.jsp" afterPath="$PROJECT_DIR$/web/KnoTypeService.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/NewestKnoService.jsp" afterPath="$PROJECT_DIR$/web/NewestKnoService.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/dist/js/wangEditor.js" afterPath="$PROJECT_DIR$/web/dist/js/wangEditor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/dist/js/wangEditor.min.js" afterPath="$PROJECT_DIR$/web/dist/js/wangEditor.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/kno-content.jsp" afterPath="$PROJECT_DIR$/web/kno-content.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/kno-contentbyID.jsp" afterPath="$PROJECT_DIR$/web/kno-contentbyID.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/kno-service.jsp" afterPath="$PROJECT_DIR$/web/kno-service.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/kno-show.jsp" afterPath="$PROJECT_DIR$/web/kno-show.jsp" />
+    </list>
+    <ignored path="HealthKnowledge.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="HealthKnowledge" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="lib.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/libraries/lib.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webContexts.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/webContexts.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rules-show.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/rules-show.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4425">
+              <caret line="295" column="25" selection-start-line="295" selection-start-column="25" selection-end-line="295" selection-end-column="25" />
+              <folding>
+                <marker date="1470227012000" expanded="true" signature="4840:4867" ph="select * fro... Recommend_kno" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Save_kno_Servlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/servlet/Save_kno_Servlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1490858028000" expanded="true" signature="4510:4715" ph="insert into HealthKno... " />
+                <marker date="1490858028000" expanded="true" signature="4510:4717" ph="insert into HealthKnoTest... " />
+                <marker date="1490858028000" expanded="true" signature="4510:4732" ph="insert into HealthKno... " />
+                <marker date="1490858028000" expanded="true" signature="4942:5028" ph="select * fro... KnoTag" />
+                <marker date="1490858028000" expanded="true" signature="5172:5234" ph="insert into KnoTag... " />
+                <marker date="1490858028000" expanded="true" signature="5330:5416" ph="insert into KnoTagRelation... " />
+                <marker date="1490858028000" expanded="true" signature="5639:5725" ph="select * fro... KnoTag" />
+                <marker date="1490858028000" expanded="true" signature="5869:5931" ph="insert into KnoTag... " />
+                <marker date="1490858028000" expanded="true" signature="6027:6113" ph="insert into KnoTagRelation... " />
+                <marker date="1490858028000" expanded="true" signature="6336:6422" ph="select * fro... KnoTag" />
+                <marker date="1490858028000" expanded="true" signature="6566:6628" ph="insert into KnoTag... " />
+                <marker date="1490858028000" expanded="true" signature="6724:6810" ph="insert into KnoTagRelation... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2051">
+              <caret line="360" column="31" selection-start-line="360" selection-start-column="31" selection-end-line="360" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kno-show.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/kno-show.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13972">
+              <caret line="967" column="6" selection-start-line="967" selection-start-column="6" selection-end-line="967" selection-end-column="6" />
+              <folding>
+                <marker date="1490861893000" expanded="true" signature="7827:7875" ph="select TagNa... KnoTag" />
+                <marker date="1490861893000" expanded="true" signature="9229:9277" ph="select TagNa... Knowledge_Tag" />
+                <marker date="1490861893000" expanded="true" signature="10125:10214" ph="select KnoNa... Tag_AND_Knowledge" />
+                <marker date="1490861893000" expanded="true" signature="10652:10742" ph="select * fro... Health_Knowledge" />
+                <marker date="1490861893000" expanded="true" signature="17118:17166" ph="select TagNa... Knowledge_Tag" />
+                <marker date="1490861893000" expanded="true" signature="18391:18439" ph="select TagNa... Knowledge_Tag" />
+                <marker date="1490861893000" expanded="true" signature="19250:19339" ph="select KnoNa... Tag_AND_Knowledge" />
+                <marker date="1490861893000" expanded="true" signature="19747:19832" ph="select * fro... Health_Knowledge" />
+                <marker date="1490861893000" expanded="true" signature="26258:26306" ph="select TagNa... Knowledge_Tag" />
+                <marker date="1490861893000" expanded="true" signature="27595:27643" ph="select TagNa... Knowledge_Tag" />
+                <marker date="1490861893000" expanded="true" signature="28508:28597" ph="select KnoNa... Tag_AND_Knowledge" />
+                <marker date="1490861893000" expanded="true" signature="29035:29125" ph="select * fro... Health_Knowledge" />
+                <marker date="1490861893000" expanded="true" signature="35501:35549" ph="select TagNa... Knowledge_Tag" />
+                <marker date="1490861893000" expanded="true" signature="36726:36774" ph="select TagNa... Knowledge_Tag" />
+                <marker date="1490861893000" expanded="true" signature="37545:37634" ph="select KnoNa... Tag_AND_Knowledge" />
+                <marker date="1490861893000" expanded="true" signature="38018:38099" ph="select * fro... Health_Knowledge" />
+                <marker date="1490861893000" expanded="true" signature="44317:44365" ph="select TagNa... Knowledge_Tag" />
+                <marker date="1490861893000" expanded="true" signature="45578:45626" ph="select TagNa... Knowledge_Tag" />
+                <marker date="1490861893000" expanded="true" signature="46427:46516" ph="select KnoNa... Tag_AND_Knowledge" />
+                <marker date="1490861893000" expanded="true" signature="46918:47002" ph="select * fro... Health_Knowledge" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Delete_kno_Servlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/servlet/Delete_kno_Servlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-825">
+              <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+              <folding>
+                <marker date="1490753292000" expanded="true" signature="1560:1615" ph="delete from " />
+                <marker date="1490753292000" expanded="true" signature="1665:1724" ph="delete from " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Push_kno_Servlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/servlet/Push_kno_Servlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="76" column="8" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#2902#2910#0" expanded="false" />
+                <marker date="1472977212000" expanded="true" signature="3153:3246" ph="insert into Recommend_kno... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HealthKnowledge.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HealthKnowledge.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rules-add.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/rules-add.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2835">
+              <caret line="189" column="38" selection-start-line="179" selection-start-column="32" selection-end-line="189" selection-end-column="38" />
+              <folding>
+                <marker date="1470227012000" expanded="true" signature="9438:9468" ph="select * fro... Health_Knowledge" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/web/index.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/KnowledgeCreate.jsp" />
+        <option value="$PROJECT_DIR$/web/css/styles.css" />
+        <option value="$PROJECT_DIR$/web/js/knowledgeInput.js" />
+        <option value="$PROJECT_DIR$/src/send/AppPush.java" />
+        <option value="$PROJECT_DIR$/src/servlet/Update_kno_Servlet.java" />
+        <option value="$PROJECT_DIR$/src/timer/KnoPushTaskListener.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/timer/TimerManager.java" />
+        <option value="$PROJECT_DIR$/src/timer/KnoPushTask.java" />
+        <option value="$PROJECT_DIR$/web/kno-content.jsp" />
+        <option value="$PROJECT_DIR$/src/servlet/Delete_kno_Servlet.java" />
+        <option value="$PROJECT_DIR$/web/IfKnoUpdated.jsp" />
+        <option value="$PROJECT_DIR$/web/kno-contentbyID.jsp" />
+        <option value="$PROJECT_DIR$/web/NewestKnoService.jsp" />
+        <option value="$PROJECT_DIR$/web/KnoTypeService.jsp" />
+        <option value="$PROJECT_DIR$/web/kno-service.jsp" />
+        <option value="$PROJECT_DIR$/src/servlet/Save_kno_Servlet.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/servlet/Save_kno_Servlet.java" />
+        <option value="$PROJECT_DIR$/web/kno-show.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" value="" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="20" />
+    <option name="y" value="23" />
+    <option name="width" value="1260" />
+    <option name="height" value="722" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HealthKnowledge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HealthKnowledge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HealthKnowledge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HealthKnowledge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HealthKnowledge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HealthKnowledge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HealthKnowledge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HealthKnowledge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HealthKnowledge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HealthKnowledge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HealthKnowledge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HealthKnowledge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HealthKnowledge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HealthKnowledge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HealthKnowledge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/java-sdk-0.1.6.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/WEB-INF" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/WEB-INF/lib" />
+      <recent name="$PROJECT_DIR$/web" />
+      <recent name="$PROJECT_DIR$/web/WEB-INF" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.5">
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="HealthKnowledge" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="Tomcat 8.5.5" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.5" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/index.jsp" />
+      <deployment>
+        <artifact name="HealthKnowledge:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_5_HealthKnowledge" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50347" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="HealthKnowledge:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 8.5.5" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9145de10-574c-4f6f-9e44-ce56fcf1d51b" name="Default" comment="" />
+      <created>1474508962905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1474508962905</updated>
+      <workItem from="1474508967342" duration="2118000" />
+      <workItem from="1474522239784" duration="335000" />
+      <workItem from="1474522591036" duration="153000" />
+      <workItem from="1474525006950" duration="732000" />
+      <workItem from="1474525825149" duration="4131000" />
+      <workItem from="1474595429056" duration="1827000" />
+      <workItem from="1474939642454" duration="4992000" />
+      <workItem from="1475025369052" duration="1893000" />
+      <workItem from="1475677368556" duration="68000" />
+      <workItem from="1475819838670" duration="4607000" />
+      <workItem from="1475912334067" duration="461000" />
+      <workItem from="1476153506080" duration="1530000" />
+      <workItem from="1476174856044" duration="968000" />
+      <workItem from="1476236595793" duration="4636000" />
+      <workItem from="1477572464974" duration="2464000" />
+      <workItem from="1477617866558" duration="6290000" />
+      <workItem from="1477630602679" duration="7184000" />
+      <workItem from="1477650928968" duration="697000" />
+      <workItem from="1483612578685" duration="1648000" />
+      <workItem from="1483616414528" duration="280000" />
+      <workItem from="1483926302353" duration="4344000" />
+      <workItem from="1484018246747" duration="668000" />
+      <workItem from="1484118223409" duration="611000" />
+      <workItem from="1488425087599" duration="715000" />
+      <workItem from="1490682881998" duration="8061000" />
+      <workItem from="1490752252926" duration="2341000" />
+      <workItem from="1490839157621" duration="5281000" />
+      <workItem from="1490846097977" duration="2537000" />
+      <workItem from="1490851039613" duration="10726000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="82298000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="20" y="23" width="1260" height="722" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924962" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12863706" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24761905" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9180">
+          <caret line="612" column="32" selection-start-line="612" selection-start-column="32" selection-end-line="612" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="14" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/Upload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/send/AppPush.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javabean/UserRegisterBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/Delete_kno_Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/KnoTypeService.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/datepicker3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/datepicker3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/javabean/UserRegisterBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9180">
+          <caret line="612" column="32" selection-start-line="612" selection-start-column="32" selection-end-line="612" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/javabean/UserRegisterBean.java" />
+    <entry file="file://$PROJECT_DIR$/web/KnowledgeCreate.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/Upload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/tag.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/dist/js/wangEditor.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/dist/js/lib/jquery-2.2.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="3069" column="4" selection-start-line="3069" selection-start-column="4" selection-end-line="3069" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/dist/js/wangEditor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="98" selection-start-line="21" selection-start-column="98" selection-end-line="21" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/knowledgeInput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/Update_kno_Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-720">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="523" column="28" selection-start-line="523" selection-start-column="28" selection-end-line="523" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/send/AppPush.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/timer/TimerManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/Delete_rule_Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/kno-content.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="52" column="60" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
+          <folding>
+            <marker date="1490752368000" expanded="true" signature="1548:1602" ph="select * fro... Health_Knowledge" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/kno-contentbyID.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="47" column="45" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
+          <folding>
+            <marker date="1490839684000" expanded="true" signature="1434:1484" ph="select * fro... HealthKno" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/NewestKnoService.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/KnoTypeService.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/kno-service.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="49" column="72" selection-start-line="49" selection-start-column="72" selection-end-line="49" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/IfKnoUpdated.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+          <folding>
+            <marker date="1490839637000" expanded="true" signature="862:907" ph="select * fro... HealtKno" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/timer/KnoPushTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="38" column="50" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/timer/KnoPushTaskListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/lib.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HealthKnowledge.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/rules-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2835">
+          <caret line="189" column="38" selection-start-line="179" selection-start-column="32" selection-end-line="189" selection-end-column="38" />
+          <folding>
+            <marker date="1470227012000" expanded="true" signature="9438:9468" ph="select * fro... Health_Knowledge" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/rules-show.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4425">
+          <caret line="295" column="25" selection-start-line="295" selection-start-column="25" selection-end-line="295" selection-end-column="25" />
+          <folding>
+            <marker date="1470227012000" expanded="true" signature="4840:4867" ph="select * fro... Recommend_kno" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/Push_kno_Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="76" column="8" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2902#2910#0" expanded="false" />
+            <marker date="1472977212000" expanded="true" signature="3153:3246" ph="insert into Recommend_kno... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/webContexts.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/java-sdk-0.1.6.jar!/com/avos/avoscloud/AVOSCloud.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/Delete_kno_Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-825">
+          <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+          <folding>
+            <marker date="1490753292000" expanded="true" signature="1560:1615" ph="delete from " />
+            <marker date="1490753292000" expanded="true" signature="1665:1724" ph="delete from " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/Save_kno_Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1490858028000" expanded="true" signature="4510:4715" ph="insert into HealthKno... " />
+            <marker date="1490858028000" expanded="true" signature="4510:4717" ph="insert into HealthKnoTest... " />
+            <marker date="1490858028000" expanded="true" signature="4510:4732" ph="insert into HealthKno... " />
+            <marker date="1490858028000" expanded="true" signature="4942:5028" ph="select * fro... KnoTag" />
+            <marker date="1490858028000" expanded="true" signature="5172:5234" ph="insert into KnoTag... " />
+            <marker date="1490858028000" expanded="true" signature="5330:5416" ph="insert into KnoTagRelation... " />
+            <marker date="1490858028000" expanded="true" signature="5639:5725" ph="select * fro... KnoTag" />
+            <marker date="1490858028000" expanded="true" signature="5869:5931" ph="insert into KnoTag... " />
+            <marker date="1490858028000" expanded="true" signature="6027:6113" ph="insert into KnoTagRelation... " />
+            <marker date="1490858028000" expanded="true" signature="6336:6422" ph="select * fro... KnoTag" />
+            <marker date="1490858028000" expanded="true" signature="6566:6628" ph="insert into KnoTag... " />
+            <marker date="1490858028000" expanded="true" signature="6724:6810" ph="insert into KnoTagRelation... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2051">
+          <caret line="360" column="31" selection-start-line="360" selection-start-column="31" selection-end-line="360" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/kno-show.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13972">
+          <caret line="967" column="6" selection-start-line="967" selection-start-column="6" selection-end-line="967" selection-end-column="6" />
+          <folding>
+            <marker date="1490861893000" expanded="true" signature="7827:7875" ph="select TagNa... KnoTag" />
+            <marker date="1490861893000" expanded="true" signature="9229:9277" ph="select TagNa... Knowledge_Tag" />
+            <marker date="1490861893000" expanded="true" signature="10125:10214" ph="select KnoNa... Tag_AND_Knowledge" />
+            <marker date="1490861893000" expanded="true" signature="10652:10742" ph="select * fro... Health_Knowledge" />
+            <marker date="1490861893000" expanded="true" signature="17118:17166" ph="select TagNa... Knowledge_Tag" />
+            <marker date="1490861893000" expanded="true" signature="18391:18439" ph="select TagNa... Knowledge_Tag" />
+            <marker date="1490861893000" expanded="true" signature="19250:19339" ph="select KnoNa... Tag_AND_Knowledge" />
+            <marker date="1490861893000" expanded="true" signature="19747:19832" ph="select * fro... Health_Knowledge" />
+            <marker date="1490861893000" expanded="true" signature="26258:26306" ph="select TagNa... Knowledge_Tag" />
+            <marker date="1490861893000" expanded="true" signature="27595:27643" ph="select TagNa... Knowledge_Tag" />
+            <marker date="1490861893000" expanded="true" signature="28508:28597" ph="select KnoNa... Tag_AND_Knowledge" />
+            <marker date="1490861893000" expanded="true" signature="29035:29125" ph="select * fro... Health_Knowledge" />
+            <marker date="1490861893000" expanded="true" signature="35501:35549" ph="select TagNa... Knowledge_Tag" />
+            <marker date="1490861893000" expanded="true" signature="36726:36774" ph="select TagNa... Knowledge_Tag" />
+            <marker date="1490861893000" expanded="true" signature="37545:37634" ph="select KnoNa... Tag_AND_Knowledge" />
+            <marker date="1490861893000" expanded="true" signature="38018:38099" ph="select * fro... Health_Knowledge" />
+            <marker date="1490861893000" expanded="true" signature="44317:44365" ph="select TagNa... Knowledge_Tag" />
+            <marker date="1490861893000" expanded="true" signature="45578:45626" ph="select TagNa... Knowledge_Tag" />
+            <marker date="1490861893000" expanded="true" signature="46427:46516" ph="select KnoNa... Tag_AND_Knowledge" />
+            <marker date="1490861893000" expanded="true" signature="46918:47002" ph="select * fro... Health_Knowledge" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>HealthKnowledge:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HealthKnowledge</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

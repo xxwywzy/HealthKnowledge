@@ -151,12 +151,10 @@
                             </div>
 
                             <div class="form-group">
-                                <label>知识标签</label> <input id="kno_tag1" class="form-control"
-                                                           placeholder="知识标签1"></input> <input id="kno_tag2"
-                                                                                               class="form-control"
-                                                                                               placeholder="知识标签2"></input>
-                                <input
-                                        id="kno_tag3" class="form-control" placeholder="知识标签3"></input><br>（请至少输入一个标签）
+                                <label>知识标签</label>
+                                <input id="kno_tag1" class="form-control" placeholder="知识标签1"></input>
+                                <input id="kno_tag2" class="form-control" placeholder="知识标签2"></input>
+                                <input id="kno_tag3" class="form-control" placeholder="知识标签3"></input><br>（请至少输入一个标签）
                             </div>
 
                             <div class="form-group">
@@ -222,12 +220,9 @@
                                         <div class="form-group">
                                             <label>知识标签</label>
                                             <div class="form-control" style="width:350px;height:50px">
-                                                <input type="button" class="btn btn-reset" value="晨峰血压"
-                                                       id="kno_tag1_to_be_saved"></input>&nbsp;&nbsp; <input
-                                                    type="button" class="btn btn-reset" value="饮食"
-                                                    id="kno_tag2_to_be_saved"></input>&nbsp;&nbsp; <input
-                                                    type="button" class="btn btn-reset" value="减肥"
-                                                    id="kno_tag3_to_be_saved"></input>&nbsp;&nbsp;
+                                                <input type="button" class="btn btn-reset" value="晨峰血压" id="kno_tag1_to_be_saved"></input>&nbsp;&nbsp;
+                                                <input type="button" class="btn btn-reset" value="饮食" id="kno_tag2_to_be_saved"></input>&nbsp;&nbsp;
+                                                <input type="button" class="btn btn-reset" value="减肥" id="kno_tag3_to_be_saved"></input>&nbsp;&nbsp;
                                             </div>
                                         </div>
                                         <div class="form-group">
@@ -237,131 +232,29 @@
                                                 <img id="link_tobesaved" width="50%"/>
                                             </div>
                                         </div>
-                                        <div class="form-group" style="display:none">
-                                            <label>目标用户</label>
-                                            <div class="form-control" style="width:350px">
-                                                <input type="radio" name="user" style="cursor:pointer"
-                                                       value="all" onclick="tag_selected_hide()" checked/>&nbsp;全部用户&nbsp;&nbsp;
-                                                <input type="radio" name="user" style="cursor:pointer"
-                                                       value="tag" data-toggle="modal" data-target="#tagModal"/>&nbsp;标签用户<br/>
-                                                <!-- <input type="radio" name="user" value="male"/>男性
-                                            <input type="radio" name="user" value="female" />女性<br/> -->
-                                            </div>
-                                        </div>
-                                        <div class="form-group" id="tag_selected"
-                                             style="display:none">
-                                            <label>用户标签</label>
-                                            <div class="form-control" style="width:350px;height:50px">
-                                                <input type="button" class="btn btn-reset" value=""
-                                                       name="tag1_to_be_send" style="display:none"></input>&nbsp;&nbsp;
-                                                <input type="button" class="btn btn-reset" value=""
-                                                       name="tag2_to_be_send" style="display:none"></input>&nbsp;&nbsp;
-                                                <input type="button" class="btn btn-reset" value=""
-                                                       name="tag3_to_be_send" style="display:none"></input>&nbsp;&nbsp;
-                                            </div>
-                                        </div>
-                                        <br> <input type="hidden" style="width:1px;height:1px"
-                                                    name="type_saved"></input> <input type="hidden"
-                                                                                      style="width:1px;height:1px"
-                                                                                      name="name_saved"></input> <input
-                                            type="hidden" style="width:1px;height:1px" name="dis_saved"></input>
-                                        <input type="hidden" style="width:1px;height:1px"
-                                               name="link_saved"></input> <input type="hidden"
-                                                                                 style="width:1px;height:1px"
-                                                                                 name="content_saved"></input> <input
-                                            type="hidden" style="width:1px;height:1px" name="tag1_saved"></input>
-                                        <input type="hidden" style="width:1px;height:1px"
-                                               name="tag2_saved"></input> <input type="hidden"
-                                                                                 style="width:1px;height:1px"
-                                                                                 name="tag3_saved"></input> <input
-                                            type="hidden" style="width:1px;height:1px"
-                                            name="kno_tag1_saved"></input> <input type="hidden"
-                                                                                  style="width:1px;height:1px"
-                                                                                  name="kno_tag2_saved"></input>
-                                        <input type="hidden" style="width:1px;height:1px"
-                                               name="kno_tag3_saved"></input>
+                                        <br>
+                                        <input type="hidden" style="width:1px;height:1px" name="type_saved"></input>
+                                        <input type="hidden" style="width:1px;height:1px" name="name_saved"></input>
+                                        <input type="hidden" style="width:1px;height:1px" name="dis_saved"></input>
+                                        <input type="hidden" style="width:1px;height:1px" name="link_saved"></input>
+                                        <input type="hidden" style="width:1px;height:1px" name="content_saved"></input>
+                                        <input type="hidden" style="width:1px;height:1px" name="tag1_saved"></input>
+                                        <input type="hidden" style="width:1px;height:1px" name="tag2_saved"></input>
+                                        <input type="hidden" style="width:1px;height:1px" name="tag3_saved"></input>
+                                        <input type="hidden" style="width:1px;height:1px" name="kno_tag1_saved"></input>
+                                        <input type="hidden" style="width:1px;height:1px" name="kno_tag2_saved"></input>
+                                        <input type="hidden" style="width:1px;height:1px" name="kno_tag3_saved"></input>
                                     </div>
                                     <div class="modal-footer">
                                         <button type="button" class="btn btn-default"
                                                 data-dismiss="modal">关闭
                                         </button>
-                                        <input type="submit" value="保存" class="btn btn-primary"
-                                               id="save"></input>
+                                        <input type="submit" value="保存" class="btn btn-primary" id="save"></input>
                                     </div>
                                 </form>
                             </div>
                         </div>
                     </div>
-
-                    <div class="modal fade" id="tagModal" tabindex="-1"
-                         style="overflow:auto">
-                        <div class="modal-dialog">
-                            <div class="modal-content">
-                                <div class="modal-header" style="background-color:#30a5ff">
-                                    <button type="button" class="close" data-dismiss="modal"
-                                            style="color:white" onclick="tag_selected_hide()">×
-                                    </button>
-                                    <h4 class="modal-title" id="myModalLabel">
-                                        <font color="white">标签选择</font>
-                                    </h4>
-                                </div>
-                                <form>
-                                    <div class="modal-body">
-                                        <div class="form-group">
-                                            <label>用户性别</label>
-                                            <div class="form-control" style="width:350px;height:50px">
-                                                <input type="button" class="btn btn-reset" value="男性"
-                                                       id="male_selected"></input>&nbsp;&nbsp; <input
-                                                    type="button" class="btn btn-reset" value="女性"
-                                                    id="female_selected"></input>
-                                            </div>
-                                        </div>
-                                        <div class="form-group">
-                                            <label>用户年龄</label>
-                                            <div class="form-control" style="width:350px;height:50px">
-                                                <input type="button" class="btn btn-reset" value="青年"
-                                                       id="young_selected"></input>&nbsp;&nbsp; <input
-                                                    type="button" class="btn btn-reset" value="中年"
-                                                    id="mid-life_selected"></input>&nbsp;&nbsp; <input
-                                                    type="button" class="btn btn-reset" value="老年"
-                                                    id="old_selected"></input>
-                                            </div>
-                                        </div>
-                                        <div class="form-group">
-                                            <label>体重情况</label>
-                                            <div class="form-control" style="width:350px;height:50px">
-                                                <input type="button" class="btn btn-reset" value="正常"
-                                                       id="normal_selected"></input>&nbsp;&nbsp; <input
-                                                    type="button" class="btn btn-reset" value="过轻"
-                                                    id="light_selected"></input>&nbsp;&nbsp; <input
-                                                    type="button" class="btn btn-reset" value="肥胖"
-                                                    id="fat_selected"></input>
-                                            </div>
-                                        </div>
-                                        <br>
-                                        <div class="form-group">
-                                            <label id="tag_amount">已选标签：0/3</label>
-                                            <div class="form-control" style="width:350px;height:50px">
-                                                <input type="button" class="btn btn-reset" value="性别：男性"
-                                                       id="tag1" style="display:none"></input>&nbsp;&nbsp; <input
-                                                    type="button" class="btn btn-reset" value="年龄：中年"
-                                                    id="tag2" style="display:none"></input>&nbsp;&nbsp; <input
-                                                    type="button" class="btn btn-reset" value="体重：肥胖"
-                                                    id="tag3" style="display:none"></input>&nbsp;&nbsp;
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="modal-footer">
-                                        <button type="button" class="btn btn-default"
-                                                data-dismiss="modal" onclick="tag_selected_hide()">关闭
-                                        </button>
-                                        <button type="button" class="btn btn-primary"
-                                                data-dismiss="modal" id="tag_select_complete">确定
-                                        </button>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -391,7 +284,7 @@
 </script>
 
 
-<script src="http://libs.baidu.com/jquery/2.1.4/jquery.min.js"></script>
+<script type="text/javascript" src="dist/js/lib/jquery-2.2.1.js"></script>
 <!-- <script src="js/bootstrap.min.js"></script> -->
 <script
         src="http://apps.bdimg.com/libs/bootstrap/3.3.0/js/bootstrap.min.js"></script>
@@ -403,6 +296,8 @@
 <script src="js/bootstrap-datepicker.js"></script>
 <script src="js/knowledgeInput.js"></script>
 <script>
+    var editor = new wangEditor('content_input');
+    editor.create();
     $(function () {
         var btn = $("#first_save");
         btn.click(function () {
@@ -410,7 +305,10 @@
             var name = $("#name_input").val();
             var dis = $("#dis_input").val();
             var link = $("#link_input").val();
-            var content = $("#content_input").val();
+            //var content = $("#content_input").val();
+            var html = editor.$txt.html();
+//            var text = editor.$txt.text();
+//            var formatText = editor.$txt.formatText();
             var kno_tag1 = $("#kno_tag1").val();
             var kno_tag2 = $("#kno_tag2").val();
             var kno_tag3 = $("#kno_tag3").val();
@@ -423,9 +321,6 @@
                 $("#kno_tag2_to_be_saved").show();
             if (kno_tag3 != "")
                 $("#kno_tag3_to_be_saved").show();
-            var tag1 = $("input[name='tag1_to_be_send']").val();
-            var tag2 = $("input[name='tag2_to_be_send']").val();
-            var tag3 = $("input[name='tag3_to_be_send']").val();
             $("#type_tobesaved").text(type);
             $("input[name='type_saved']").val(type);
             $("#name_tobesaved").text(name);
@@ -440,65 +335,38 @@
             $("input[name='kno_tag2_saved']").val(kno_tag2);
             $("#kno_tag3_to_be_saved").val(kno_tag3);
             $("input[name='kno_tag3_saved']").val(kno_tag3);
-            $("input[name='content_saved']").val(content);
-            $("input[name='tag1_saved']").val(tag1);
-            $("input[name='tag2_saved']").val(tag2);
-            $("input[name='tag3_saved']").val(tag3);
-            var contentJson = JSON.parse(content);
-            $.ajax({
-                url: 'http://api.bosonnlp.com/keywords/analysis',
-                headers: {
-                    'X-Token': 'K-B9A7AS.9590.eq20Akb4MBdn',
-                    'Content-Type':'application/json'
-                },
-                params: {
-                    'top_k': 10
-                },
-                method: 'POST',
-                dataType: 'json',
-                data: contentJson,
-                success: function(data){
-                    console.log('success: '+data);
-                    var dataString = JSON.stringify(data);
-                    $("#dis_tobesaved").text(data);
-                }
-            });
-            var kno_key = firebase.database().ref('knowledge/').push({
-                knoname: name,
-                knotype: type,
-                knodis: dis,
-                knocontent: content,
-                knolink: link
-            }).key;
-            if (kno_tag1 != "") {
-                firebase.database().ref('knowledge/' + kno_key + '/' + 'tags' + '/' + kno_tag1).set(true);
-                var tag_key = firebase.database().ref('tags/').push({
-                    tagname: kno_tag1
-                }).key;
-                firebase.database().ref('tags/' + tag_key + '/' + 'members' + '/' + name).set(true);
-            }
-            if (kno_tag2 != "") {
-                firebase.database().ref('knowledge/' + kno_key + '/' + 'tags' + '/' + kno_tag2).set(true);
-                var tag_key = firebase.database().ref('tags/').push({
-                    tagname: kno_tag2
-                }).key;
-                firebase.database().ref('tags/' + tag_key + '/' + 'members' + '/' + name).set(true);
-            }
-            if (kno_tag3 != "") {
-                firebase.database().ref('knowledge/' + kno_key + '/' + 'tags' + '/' + kno_tag3).set(true);
-                var tag_key = firebase.database().ref('tags/').push({
-                    tagname: kno_tag3
-                }).key;
-                firebase.database().ref('tags/' + tag_key + '/' + 'members' + '/' + name).set(true);
-            }
+            $("input[name='content_saved']").val(html);
+//            var kno_key = firebase.database().ref('knowledge/').push({
+//                knoname: name,
+//                knotype: type,
+//                knodis: dis,
+//                knocontent: content,
+//                knolink: link
+//            }).key;
+//            if (kno_tag1 != "") {
+//                firebase.database().ref('knowledge/' + kno_key + '/' + 'tags' + '/' + kno_tag1).set(true);
+//                var tag_key = firebase.database().ref('tags/').push({
+//                    tagname: kno_tag1
+//                }).key;
+//                firebase.database().ref('tags/' + tag_key + '/' + 'members' + '/' + name).set(true);
+//            }
+//            if (kno_tag2 != "") {
+//                firebase.database().ref('knowledge/' + kno_key + '/' + 'tags' + '/' + kno_tag2).set(true);
+//                var tag_key = firebase.database().ref('tags/').push({
+//                    tagname: kno_tag2
+//                }).key;
+//                firebase.database().ref('tags/' + tag_key + '/' + 'members' + '/' + name).set(true);
+//            }
+//            if (kno_tag3 != "") {
+//                firebase.database().ref('knowledge/' + kno_key + '/' + 'tags' + '/' + kno_tag3).set(true);
+//                var tag_key = firebase.database().ref('tags/').push({
+//                    tagname: kno_tag3
+//                }).key;
+//                firebase.database().ref('tags/' + tag_key + '/' + 'members' + '/' + name).set(true);
+//            }
         });
     });
 </script>
-<!-- <script type="text/javascript">
-var editor = new wangEditor('content_input');
-editor.config.uploadImgUrl = 'http://115.28.42.235:8080/health-knowledge/upload';
-editor.create();
-</script> -->
 <!-- <script>
     $(function() {
         var btn = $("#save");
